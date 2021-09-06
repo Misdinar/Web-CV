@@ -1,4 +1,4 @@
 # Bejo
 Pemula
-first Project HTML & CSS
+Second Project HTML & CSS
 Curriculum Vitae
