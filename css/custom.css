@@ -1,0 +1,31 @@
+:root{
+    --bs-secondary-rgb: 20, 40, 80;
+    --bs-green: #198754;
+}
+
+  .show {
+    display: block;
+  }
+  
+  .preview{
+    width: 20em;
+  }
+
+.list-group-item-dark{
+    --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
+}
+.bg-secondary-dark{
+  background-color: #0C7B93;
+}
+.btn-outline-info{
+    color:white;
+}
+.btn-outline-info:hover{
+    color:white;
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+
+}
+
+.typewrite { color:#fff; text-decoration: none;}
