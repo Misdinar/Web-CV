@@ -1,6 +1,8 @@
 # Bejo
 Pemula | Second Project HTML & CSS | Curriculum Vitae
 
+<img src="assets/Capture.PNG">
+
 ## Konten
 Dalam Website CV sebaiknya mencakup beberapa konten yang sama layaknya sebuah cv pada umumnnya. Pada websiteku, konten yang aku pakai antara lain:
 - Profil diri (nama, TTL, nomor HP, email)
